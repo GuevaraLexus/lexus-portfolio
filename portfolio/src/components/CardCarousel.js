@@ -10,7 +10,7 @@ import officesuitesImage from '../img/officesuites.png'; // Import another image
 
 const CardCarousel = () => {
   const cardData = [
-    { title: 'C Language', text: 'Starting from 1st year, I already learned C as it is one of the fundamental language to learn programming.', imgSrc: clanguageImage },
+    { title: 'C Language', text: 'Starting from First year, I already learned C as it is one of the fundamental language to learn programming.', imgSrc: clanguageImage },
     { title: 'Java Language', text: 'I learned it during the second semester until the second year of College. I already made a game about this language.', imgSrc: jlanguageImage },
     { title: 'C# Language', text: 'I learned about this language during second semester of my second year. Most of my projects here are software development applications.', imgSrc: cslanguageImage },
     { title: 'Javascript', text: 'I learned this during my 3rd year days. Most of the projects that I\'ve made are integrated with PHP and PHPmyAdmin as its database', imgSrc: jsanguageImage },
