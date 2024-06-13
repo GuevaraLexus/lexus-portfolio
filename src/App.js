@@ -3,6 +3,7 @@ import Header from './components/Header';
 import Footer from './components/Footer';
 import Main from './components/Main';
 import CardCarousel from './components/CardCarousel';
+import CustomTabs from './components/Tabs'; // Import the new Tabs component
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 function App() {
@@ -22,6 +23,7 @@ function App() {
         <div ref={carouselRef}>
           <CardCarousel />
         </div>
+        <CustomTabs/> {/* Include the new Tabs component here */}
       </div>
       <Footer />
     </div>
