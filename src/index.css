@@ -19,22 +19,10 @@ code {
   font-style: normal;
 }
 
-/* custom-tabs.css */
-.dark-tabs .nav-pills .nav-link {
-  background-color: #343a40;
-  color: white;
-  border: 1px solid rgb(46, 46, 46); /* corrected border property */
+.scrollspy-example {
+  position: relative;
+  height: 400px;
+  overflow: auto;
 }
-
-.dark-tabs .nav-pills .nav-link.active {
-  background-color: #495057;
-  color: white;
-  border: 1px solid black; /* corrected border property */
-}
-
-.dark-tabs {
-  margin: 20px; /* Adjust the value as needed */
-}
-
 
 
