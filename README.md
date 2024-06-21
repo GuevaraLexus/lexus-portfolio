@@ -28,11 +28,3 @@ Follow these instructions to set up the project locally on your machine.
 
 - Node.js (v14 or higher)
 - npm (v6 or higher) or yarn
-
-### Installation
-
-1. **Clone the repository:**
-
-   ```sh
-   git clone https://github.com/yourusername/lexus-portfolio.git
-   cd lexus-portfolio
